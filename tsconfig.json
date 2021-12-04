@@ -1,0 +1,8 @@
+{
+	// https://v3.nuxtjs.org/concepts/typescript
+	"extends": "./.nuxt/tsconfig.json",
+	// from pwa nuxt quick start
+	"pwa": {
+		"icon": false // disables the icon module
+	}
+}
